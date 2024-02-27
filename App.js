@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
   },
   textoRiscado: {
     textDecorationLine: 'line-through',
-    fontSize: 18, 
+    fontSize: 18, //aaa
   },
   italico: {
     fontStyle: 'italic',
